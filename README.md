@@ -20,7 +20,7 @@ The Live World Clock App was built using the following technologies:
 
 ## Authors
 
-The Live World Clock App was developed by [Pardus1611](https://github.com/heetvadiya).
+The Live World Clock App was developed by [Heet Vadiya](https://github.com/heetvadiya).
 
 ## License
 
